@@ -32,7 +32,9 @@ const loginController = async (req, res) => {
     );
 
     const refreshToken = jwt.sign(
-        { "username": foundUser.username },
+        {
+            "username": foundUser.username
+        },
         process.env.REFRESH_TOKEN_SECRET,
         { expiresIn: '1d' }
     );
