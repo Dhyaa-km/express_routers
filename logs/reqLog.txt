@@ -116,3 +116,16 @@
 20260706	15:18:51	d3a081cd-a546-4b94-a48a-c85f4da0e5ae	GET	undefined	/refresh
 20260706	15:19:31	5ca4c32a-5c1a-4a26-acfc-f38779846221	POST	undefined	/auth
 20260706	15:19:46	26e2f43d-a312-4e5f-b875-733aa4ebe28c	GET	undefined	/refresh
+20260713	14:37:39	db181cc0-26ad-4015-a48b-d87d0d3f1850	GET	undefined	/register
+20260713	14:38:05	d0acab69-f1c2-4f74-8cfb-1c7351fdea1c	GET	undefined	/register
+20260713	14:38:13	f392e2ed-7e4f-4852-806f-2a4f886a3b4e	GET	undefined	/register
+20260713	14:38:56	585ddf61-fbd8-44c3-a991-654016e67c89	GET	undefined	/register
+20260713	14:39:00	525621a7-5887-403c-9b40-afa1067a3b5a	GET	undefined	/register
+20260713	14:41:31	59dcb438-6684-42e6-8f50-193109c1377b	POST	undefined	/register
+20260713	14:43:21	0c192354-c084-4a55-a2ee-74b5fa118a24	POST	undefined	/register
+20260713	15:03:04	60fadd80-4ff8-411f-baec-23a918356aac	POST	undefined	/register
+20260713	15:03:13	6d7941ee-306b-486a-996f-30297503fc58	POST	undefined	/register
+20260713	15:03:52	a7f38416-2f4c-4a11-9ebb-5bf9a8b0e0d6	POST	undefined	/auth
+20260713	15:06:39	0fdf26a0-365f-4fce-be1a-79d7be5bdf23	POST	undefined	/auth
+20260713	15:45:56	360cd870-8cca-4cd5-9be8-168505f93f4a	GET	undefined	/
+20260713	15:45:56	74644e35-8b3d-4529-9a13-d2a78afc815d	GET	undefined	/css/style.css
